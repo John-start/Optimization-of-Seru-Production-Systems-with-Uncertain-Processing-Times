@@ -1,0 +1,16 @@
+,job,seru,start_time,finish_time,batch_size(mean)
+0,job14,seru1,0,676,26
+1,job1,seru1,746,1066,20
+2,job15,seru1,1161,1499,26
+3,job2,seru2,0,300,30
+4,job6,seru2,372,876,24
+5,job8,seru2,970,1320,25
+6,job7,seru3,0,560,28
+7,job10,seru3,625,889,24
+8,job9,seru3,951,1455,24
+9,job12,seru4,0,300,30
+10,job13,seru4,389,1065,26
+11,job3,seru4,1149,1825,26
+12,job4,seru5,0,650,25
+13,job11,seru5,735,1039,19
+14,job5,seru5,1136,1474,26
